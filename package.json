@@ -20,5 +20,8 @@
     "@babel/preset-env": "^7.16.11",
     "babel-jest": "^27.5.1",
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "object-hash": "^3.0.0"
   }
 }
