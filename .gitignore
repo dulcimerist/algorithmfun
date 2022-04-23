@@ -1,0 +1,3 @@
+/node_modules
+#No reason to check in package-lock for a pet project that doesn't actually get deployed anywhere
+package-lock.json
